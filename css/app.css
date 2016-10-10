@@ -1,0 +1,62 @@
+.holder {
+  width: 60%;
+}
+
+.simonBubble {
+  background-color: black;
+  width: 45%;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  height: 300px;
+  float: left;
+  border-radius: 50%;
+  display: none;
+}
+
+#green {
+  background-color: darkgreen;
+}
+
+#yellow {
+  background-color: olive;
+}
+
+#red {
+  background-color: darkred;
+}
+
+#blue {
+  background-color: darkblue;
+}
+
+#green:hover {
+  background-color: #00FF00;
+}
+
+#blue:hover {
+  background-color: #4169E1;
+}
+
+#red:hover {
+  background-color: #FF3030;
+}
+
+#yellow:hover {
+  background-color: #FFFF00;
+}
+
+#green:active {
+  background-color: darkgreen;
+}
+
+#yellow:active {
+  background-color: olive;
+}
+
+#red:active {
+  background-color: darkred;
+}
+
+#blue:active {
+  background-color: darkblue;
+}
